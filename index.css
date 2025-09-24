@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgb(194, 140, 245);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
+#div1{
+    height: 360px;
+    width: 280px;
+    background-color: rgb(35, 109, 174);
+    border-radius: 5px;
+}
+#int1{
+    width: 260px;
+    height: 50px;
+    padding-left: 20px;
+    border: none;
+    border-radius: 5px;
+}
+.div3{
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+
+
+}
+.btn1{
+    height: 40px;
+    width: 50px;
+}
