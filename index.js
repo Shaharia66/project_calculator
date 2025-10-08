@@ -5,3 +5,4 @@ int1.addEventListener("click",display());
 let display=(numb)=>{
     btn1.innerText +=numb;
 }
+const btn2=document.querySelector(".btn2");
